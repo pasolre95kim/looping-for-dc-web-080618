@@ -5,4 +5,3 @@ def using_for
   puts "Wingardium Leviosa"
   checklist += 1
 end
-end
